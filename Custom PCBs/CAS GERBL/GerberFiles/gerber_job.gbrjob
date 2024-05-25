@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-05-13T00:27:42Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "KPT_PCB v1"
+        },
+        "Owner": "Brian Burton <brianburton88@gmail.com>",
+        "Size": {
+            "X": 42,
+            "Y": 42
+        }
+    }
+}

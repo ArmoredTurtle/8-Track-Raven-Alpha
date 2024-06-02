@@ -4,6 +4,8 @@ Join our discord server here:
 
 [![Join me on Discord](https://discord.com/api/guilds/1229586267671629945/widget.png?style=banner2)](https://discord.gg/eT8zc3bvPR)
 
+[![Buy me a coffee to help keep this project going!](https://buymeacoffee.com/armoredturtle)
+
 ## Intro
 
 This is an alpha version of the 8-Track project.

@@ -1,30 +1,42 @@
-# Cassette BOM (Bill of Materials)
+# Cassette BOM ((Bill of Materials)  Per Cassette)
 
-## Extruder
-| Qty | Item                  |
-|-----|-----------------------|
-| 1   | 20mm Nema 17 motor    |
-| 1   | BMG Extruder gear kit |
-| 1   | mg 996r servo         |
-
-## Respooler
-| Qty | Item                                                                                           |
-|-----|------------------------------------------------------------------------------------------------|
-| 5   | 608 bearings                                                                                   |
-| 2   | 80mmx8mm shaft                                                                                 |
-| 1   | HF081412 one way bearing (8mm ID, 14mm OD, 12mm L)                                             |
-| 2   | #211 Orings (13/16" ID, 1 1/16" OD)                                                            |
-| 8   | M3 Heatset inserts (5mm OD, 4mm L)                                                             |
-| 1   | ECAS04 (remove rubber spacer)                                                                  |
-| 1   | Spring (6mm OD, 1mm Wire Size, 7.5mm Compressed Length, 15mm Free Length, 37.2N Load Capacity) |
-| 2   | M3x25mm Socket head cap screw                                                                  |
-| 1   | M3 washer                                                                                      |
-| 1   | M3x20mm Socket head cap screw.                                                                 |
-| 6   | M3x6mm Socket head cap screw.                                                                  |
+## Electronics
+| Qty | Item                            |
+|-----|---------------------------------|
+| 1   | 20mm Nema 17 motor              |
+| 1   | Endstop microswitch (Omron D2F) |
+| 1   | mg 996r servo                   |
+| 1   | Cassette Side-A PCB             |
 
 ## Hardware
+|  Qty  | Item                                                                                           |
+|-------|------------------------------------------------------------------------------------------------|
+|  20   | M3x6 SHCS                                                                                      |
+|  7    | M3x20 SHCS                                                                                     |
+|  3    | M3x20 FHCS                                                                                     |
+|  6    | M3 Washer                                                                                      |
+|  17   | M3x5 Heat set inserts                                                                          |
+|  1    | BMG Extruder gear kit                                                                          |
+|  1    | Spring (6mm OD, 1mm Wire Size, 7.5mm Compressed Length, 15mm Free Length, 37.2N Load Capacity) |
+|  2    | #211 Orings (13/16" ID, 1 1/16" OD)                                                            |
+|  4    | 608 Bearings                                                                                   |
+|  1    | R4zz Bearing                                                                                   |
+|  2    | 80x8mm Shaft                                                                                   |
+|  1    | HF081412 one way bearing (8mm ID, 14mm OD, 12mm L)                                             |
+|  1    | ECAS04 (remove rubber spacer)
+| ~32mm | 4mm OD 3mm ID bowden tube
+
+
+## Printed Parts
 | Qty | Item                  |
 |-----|-----------------------|
-| 1   | A-Side cassette pcb   |
-| ?   | m3x5 heated inserts   |
-| ?   | m3 screws - many - assorted|
+| 1   | Cassette Lid          |
+| 1   | Cassette Shell        |
+| 1   | Frane                 |
+| 1   | Idler Frame           |
+| 1   | TensionArm_Upper      |
+| 1   | TensionArm_Lower      |
+| 2   | Idler Roller          |
+| 2   | Idler Spacer          |
+| 2   | Inner Roller          |
+| 2   | Roller_TPU95A         |

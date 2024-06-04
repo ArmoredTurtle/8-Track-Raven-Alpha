@@ -6,7 +6,6 @@ Join our discord server here:
 
 [![Join me on Discord](https://discord.com/api/guilds/1229586267671629945/widget.png?style=banner2)](https://discord.gg/eT8zc3bvPR)
 
-[Buy me a coffee to help keep this project going!](https://buymeacoffee.com/armoredturtle)
 
 ## Intro
 
@@ -24,3 +23,5 @@ Almost everything is subject to change unless specified as set in stone such as:
 Cassette dimensions, 8-Track Raven frame.
 
 *Insert lots more reading material here *later**
+
+[Buy me a coffee to help keep this project going!](https://buymeacoffee.com/armoredturtle)

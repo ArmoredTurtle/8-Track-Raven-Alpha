@@ -12,10 +12,11 @@
 |  Qty  | Item                                                                                           |
 |-------|------------------------------------------------------------------------------------------------|
 |  20   | M3x6 SHCS                                                                                      |
+|  3    | M3x8 SHCS                                                                                      |
 |  7    | M3x20 SHCS                                                                                     |
 |  3    | M3x20 FHCS                                                                                     |
 |  6    | M3 Washer                                                                                      |
-|  17   | M3x5 Heat set inserts                                                                          |
+|  20   | M3x5 Heat set inserts                                                                          |
 |  1    | BMG Extruder gear kit                                                                          |
 |  1    | Spring (6mm OD, 1mm Wire Size, 7.5mm Compressed Length, 15mm Free Length, 37.2N Load Capacity) |
 |  2    | #211 Orings (13/16" ID, 1 1/16" OD)                                                            |
@@ -23,9 +24,10 @@
 |  1    | R4zz Bearing                                                                                   |
 |  2    | 80x8mm Shaft                                                                                   |
 |  1    | HF081412 one way bearing (8mm ID, 14mm OD, 12mm L)                                             |
-|  1    | ECAS04 (remove rubber spacer)
-| ~32mm | 4mm OD 3mm ID bowden tube
-
+|  1    | ECAS04 (remove rubber spacer)                                                                  |
+|  1    | 5mm Steel ball bearing                                                                         |
+| ~32mm | 4mm OD 3mm ID bowden tube                                                                      |
+| ***   | If split cassette +1 M3x6 SHCS, +1 M3X5 heat set insert                                        |
 
 ## Printed Parts
 | Qty | Item                  |

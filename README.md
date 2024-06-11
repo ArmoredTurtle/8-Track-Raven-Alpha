@@ -38,7 +38,7 @@ Cassette dimensions, 8-Track Raven frame.
 | Qty | Item                          |
 |-----|-------------------------------|
 | 4   | B-side cassete PCBs           |
-| 40  | M3x5 Heat set inserts         |
+| 56  | M3x5 Heat set inserts         |
 | 16  | 0.5x5x15 Coil Springs         |
 | 16  | M3x20 FHCS                    |
 | 32  | M3x12 SHCS                    |

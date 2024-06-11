@@ -21,7 +21,7 @@
 |  1    | Spring (6mm OD, 1mm Wire Size, 7.5mm Compressed Length, 15mm Free Length, 37.2N Load Capacity) |
 |  2    | #211 Orings (13/16" ID, 1 1/16" OD)                                                            |
 |  4    | 608 Bearings                                                                                   |
-|  1    | R4zz Bearing                                                                                   |
+|  1    | R4zz Bearing OR 634ZZ (print tension arms)                                                     |
 |  2    | 80x8mm Shaft                                                                                   |
 |  1    | HF081412 one way bearing (8mm ID, 14mm OD, 12mm L)                                             |
 |  1    | ECAS04 (remove rubber spacer)                                                                  |

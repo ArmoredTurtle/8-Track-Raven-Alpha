@@ -27,7 +27,7 @@
 |  1    | ECAS04 (remove rubber spacer)                                                                  |
 |  1    | 5mm Steel ball bearing                                                                         |
 | ~32mm | 4mm OD 3mm ID bowden tube                                                                      |
-| ***   | If split cassette +1 M3x6 SHCS, +1 M3X5 heat set insert                                        |
+| ***   | If split cassette +2 M3x20 SHCS                                       |
 
 ## Printed Parts
 | Qty | Item                  |

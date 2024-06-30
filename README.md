@@ -1,6 +1,6 @@
 8-Track Raven 4 spool automated filament changer.
 
-V0.0.35
+V0.0.41
 
 Join our discord server here:
 
@@ -83,10 +83,10 @@ Cassette dimensions, 8-Track Raven frame.
 |  1    | R4zz Bearing OR 634ZZ (print tension arms)                                                     |
 |  2    | 80x8mm Shaft                                                                                   |
 |  1    | HF081412 one way bearing (8mm ID, 14mm OD, 12mm L)                                             |
-|  1    | ECAS04 (remove rubber spacer)                                                                  |
 |  1    | 5mm Steel ball bearing                                                                         |
 | ~32mm | 4mm OD 3mm ID bowden tube                                                                      |
 |  4    | 6x3mm magnets                                                                                  |
+|  1    | 0.5x5x15 Coil Spring                                                                           |
 | ***   | If split cassette +1 M3x6 SHCS, +1 M3X5 heat set insert                                        |
 
 ## Printed Parts

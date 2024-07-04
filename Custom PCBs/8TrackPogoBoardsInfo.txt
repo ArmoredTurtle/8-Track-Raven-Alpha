@@ -5,6 +5,6 @@ Identification: There is A-Side and B-Side, you can identify this by the side th
 B-side boards have the male pogos and go on your hub (raven or other) A-side boards have the female pogos and are for the cassettes. 
 
 
-The pogo pins can be sourced here, you want the 8-pin bo ear variation.
+The pogo pins can be sourced here, you want the 8-pin "with ear" variation.
 https://www.aliexpress.us/item/3256805938998871.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=21501157394&aff_fcid=cd163de479f14258a65d7d3353fb50ba-1716677385502-02505-_mNuHXJM&tt=MG&aff_fsk=_mNuHXJM&aff_platform=default&sk=_mNuHXJM&aff_trace_key=cd163de479f14258a65d7d3353fb50ba-1716677385502-02505-_mNuHXJM&shareId=21501157394&businessType=ProductDetail&platform=AE&terminal_id=df3c35d52349464d98dbb03718faf368&afSmartRedirect=y&gatewayAdapt=glo2usa
 Each pair uses 2 4 pin JST-XH connectors, 2 3 pin, 4 2 pin.
